@@ -1,12 +1,13 @@
 ---
 layout: default
-title: "Welcome to OJ's Homepage"
+title: "⚡ Welcome to OJ's Homepage⚡ "
 ---
 
 # Welcome to My Homepage! 🚀
 
 Hey! I'm **OJ**, a developer passionate about building cool projects and exploring new technologies.  
 Stay tuned for updates on what I’m working on!
+This is still a work-in-progress so bare with me while I sort everything
 
 ## 🔥 Projects
 - Project 1: [Link](#)
