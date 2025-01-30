@@ -14,4 +14,4 @@ Stay tuned for updates on what I’m working on!
 
 ## 📫 Contact
 - GitHub: [OJ-30](https://github.com/OJ-30)
-- Twitter: [@YourHandle](#)
+- **LinkedIn**: [Oladapo Akindele](https://www.linkedin.com/in/oladapo-akindele/)
