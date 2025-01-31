@@ -10,9 +10,9 @@ Stay tuned for updates on what I’m working on!
 This is still a work-in-progress so bare with me while I sort everything
 
 ## 🔥 Projects
-- Project 1: [Link](#)
-- Project 2: [Link](#)
+- **GUI Calculator (Java)**: [Link](https://github.com/OJ-30/OJ-30Calculator)
+- **Project 2**: [Link](#)
 
 ## 📫 Contact
-- GitHub: [OJ-30](https://github.com/OJ-30)
+- **GitHub**: [OJ-30](https://github.com/OJ-30)
 - **LinkedIn**: [Oladapo Akindele](https://www.linkedin.com/in/oladapo-akindele/)
