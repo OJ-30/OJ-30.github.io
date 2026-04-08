@@ -9,8 +9,8 @@ Hey! I'm **OJ**, a developer passionate about building cool projects and explori
 Stay tuned for updates on what I’m working on!
 
 ## 🔥 Projects
-- **EdgeShield: AI Phishing & Security Analyser**: [Link](https://github.com/OJ-30/cf_ai_edge_shield)
-- **Project 2**: [Link](#)
+- **Student Hub Full-stack app**: [Link](https://github.com/OJ-30/student-hub-uon)
+- **orangedb | Simple Database**: [Link](https://github.com/OJ-30/orangedb)
 
 ## 📫 Contact
 - **GitHub**: [OJ-30](https://github.com/OJ-30)
